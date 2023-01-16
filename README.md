@@ -3,7 +3,7 @@
   <img src="assets/logo(1).jpg" alt="Akbotmakersnew Logo">
 </p>
 <h1 align="center">
-  <b>LUCIFER BOT</b>
+  <b> BOT</b>
 </h1>
 
 ## New Features
@@ -37,13 +37,13 @@
 * `DELETE_TIME` : To avoid copyright issues in movie groups. Make sure bot is an admin with delete messages option.
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used seperated by space )
-* Check [info.py](https://github.com/Akbotmakersnew/LUCIFER/blob/master/info.py) for more
+* Check [info.py](https://github.com/Akbotmakersnew//blob/master/info.py) for more
 
 
 ## Deploy
 You can deploy this on [HEROKU.COM](https://heroku.com) & [RAILWAY](https://railway.app)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akbotmakersnew/LUCIFER)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akbotmakersnew/)
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/TKLYA7)
 
